@@ -1,0 +1,3 @@
+[submodule "libwallaby"]
+	path = libwallaby
+	url = git@github.com:kipr/libwallaby.git
